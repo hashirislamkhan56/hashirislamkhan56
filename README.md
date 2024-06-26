@@ -13,6 +13,7 @@ Facebook: @hashirislamkhan
 Email: haashir.islam@gmail.com
 🚀 Fun Fact: "Why do programmers prefer dark mode? Because light attracts bugs!" 😅
 
+
 class Hashir:
     def __init__(self):
         self.languages = ["Python", "Django", "Flask", "C++", "C#"]
@@ -21,8 +22,7 @@ class Hashir:
             "Insta": "@hashirislamkhan",
             "Facebook": "@hashirislamkhan",
             "Email": "haashir.islam@gmail.com"
-        }
-        
+        }   
     def about_me(self):
         return "I'm Hashir Islam, a coding wizard in training. When I'm not conjuring up code, " \
                "I'm probably debugging (or pretending to). I love diving into new projects and " \
